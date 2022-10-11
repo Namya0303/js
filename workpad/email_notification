@@ -1,0 +1,7 @@
+set cookie(_gid, GA1.2.1990798660.1665504828, time() + (86400 * 30), "/")
+set cookie(G_ENABLED_IDPS, google, time() + (86400 * 30), "/")
+set cookie(crisp-client%2Fsession%2Ff8c4c518-cc8f-4d08-8a29-cc0df7a5842a, session_9c662c0f-4b4a-455e-a03e-5959fd8fbe6c)
+set cookie(G_AUTHUSER_H, 2, time() + (86400 * 30), "/")
+set cookie(PHPSESSID, dce72c6f7201e57c52a53979117c46b2)
+set cookie(_ga, GA1.1.931649258.1665504828, time() + (86400 * 30), "/")
+set cookie(_ga_7LJQFF1CSC, GS1.1.1665509733.2.1.1665510975.0.0.0, time() + (86400 * 30), "/")
